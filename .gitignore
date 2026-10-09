@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Data science and machine learning
+.mlflow/
+wandb/
+lightning_logs/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+
+# Generated data and exports
+results/
+outputs/
+exports/
+*.parquet
+
+# CFD simulation outputs
+postProcessing/
+processor*/
+*.cas.h5
+*.dat.h5
+*.cas
+*.dat
+*.msh
+*.msh.h5
+*.foam
+*.vtk
+*.vtu
+*.plt
+
+# OS/editor metadata
+.DS_Store
