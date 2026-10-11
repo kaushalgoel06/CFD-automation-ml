@@ -1,0 +1,30 @@
+{
+    "completed_geometries": [],
+    "completed_csvs": [
+        "csv_results_cfd_colloq_baseline_v5_60_6_20.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_4_20.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_8_10.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_2_10.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_8_20.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_4_30.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_6_30.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_2_20.csv",
+        "csv_results_cfd_colloq_baseline_v5_60_2_30.csv",
+        "csv_results_cfd_colloq_baseline_v5_60_2_10.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_2_30.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_6_20.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_4_10.csv",
+        "csv_results_cfd_colloq_baseline_v5_60_2_20.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_6_10.csv",
+        "csv_results_cfd_colloq_baseline_v5_60_4_10.csv",
+        "csv_results_cfd_colloq_baseline_v5_60_4_30.csv",
+        "csv_results_cfd_colloq_baseline_v5_60_8_20.csv",
+        "csv_results_cfd_colloq_baseline_v5_60_6_10.csv",
+        "csv_results_cfd_colloq_baseline_v5_60_6_30.csv",
+        "csv_results_cfd_colloq_baseline_v5_70_8_30.csv",
+        "csv_results_cfd_colloq_baseline_v5_60_8_10.csv",
+        "csv_results_cfd_colloq_baseline_v5_60_4_20.csv",
+        "csv_results_cfd_colloq_baseline_v5_60_8_30.csv"
+    ],
+    "pipeline_status": "initialized"
+}

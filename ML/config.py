@@ -17,9 +17,6 @@ STATUS_FILE = Path(r"C:\Users\Kaushal Goel\Documents\CFD-automation-ml\ML\status
 # Directory containing compiled CSV report files
 COMPILED_CSV_DIR = MAIN_DIRECTORY / "Compiled_CSV_Reports"
 
-# Directory for CAD / Geometry files (if applicable)
-GEOMETRY_DIR = MAIN_DIRECTORY / "Geometry"
-
 
 # ==============================================================================
 # FILE MATCHING & FILTER CONFIGURATIONS
